@@ -12,3 +12,5 @@ I'm Front-end Developer. <br/>
 <h4>Javascript</h4>
 <h4>Php</h4>
 <h4>Yii2 Framework</h4>
+
+<h2>Follow my projects and don't forget to subscribe!</h2>
