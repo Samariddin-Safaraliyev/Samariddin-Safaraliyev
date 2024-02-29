@@ -1,2 +1,2 @@
-### Hi, I'm Samariddin Safaraliyev 👋 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FFlybuys-transparent-flybuys-Ln4Vx6XeJLRxyCphoj&psig=AOvVaw3Y_DiXGuiT86OhmAZzp3IO&ust=1709281757734000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDEi_aQ0IQDFQAAAAAdAAAAABBK" width=10px alt="hello">
+### Hi, I'm Samariddin Safaraliyev <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width=10px alt="hello">
 
