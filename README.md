@@ -10,6 +10,7 @@
 <h4>SASS</h4>
 <h4>Bootstrap</h4>
 <h4>Javascript</h4>
+<h4>React js</h4>
 <h4>Php</h4>
 <h4>Yii2 Framework</h4>
 
